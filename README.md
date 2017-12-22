@@ -4,6 +4,8 @@ This is my study plan for going from web developer (self-taught, no CS degree) t
 
 ## Java
 
+- [X] Object Oriented Programming in Java | [Certificate](https://www.coursera.org/account/accomplishments/certificate/PHA2WDVMYFPA)
+- [X] Data Structures and Performance | [Certificate](https://www.coursera.org/account/accomplishments/certificate/C4UHHBGT5UWT)
 - [X] [Parallel Programming In Java](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/UBVHQ3S4WYGF)
 
 ## Algorithms
