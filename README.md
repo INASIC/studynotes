@@ -1,6 +1,6 @@
 # 소프트웨어 엔지니어 스터디노트
 
-비전공자 웹개발자로 일하고 있습니다. 개발자로서 한계를 느껴 기본 지식을 다지려 합니다. [Coding Interview University](https://github.com/jwasham/coding-interview-university)를 참고해 소프트웨어 엔지니어로서 성장하기 위한 계획을 이곳에 적겠습니다.
+웹개발자로 일하고 있습니다. 개발자로서 한계를 느껴 기본 지식을 다지려 합니다. [Coding Interview University](https://github.com/jwasham/coding-interview-university)를 참고해 소프트웨어 엔지니어로서 성장하기 위한 계획을 이곳에 적겠습니다. 
 
 # Programming Languages
 
