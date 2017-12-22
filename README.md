@@ -1,6 +1,8 @@
-# studynotes
+# 소프트웨어 엔지니어 스터디노트
 
-This is my study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+비전공자 웹개발자로 일하고 있습니다. 개발자로서 한계를 느껴 기본 지식을 다지려 합니다. [Coding Interview University](https://github.com/jwasham/coding-interview-university)를 참고해 소프트웨어 엔지니어로서 성장하기 위한 계획을 이곳에 적겠습니다.
+
+# Programming Languages
 
 ## Java
 
@@ -8,7 +10,18 @@ This is my study plan for going from web developer (self-taught, no CS degree) t
 - [X] Data Structures and Performance | [Certificate](https://www.coursera.org/account/accomplishments/certificate/C4UHHBGT5UWT)
 - [X] [Parallel Programming In Java](https://www.coursera.org/learn/parallel-programming-in-java/home/welcome) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/UBVHQ3S4WYGF)
 
-## Algorithms
+# Software Engineering
+
+- [ ] [Design of Computer Programs (udacity)](https://www.udacity.com/course/design-of-computer-programs--cs212)
+
+# OS
+
+- [ ] [Introduction to Operating Systems (udacity)](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+  - [ ] Process and Thread Management
+  - [ ] Resource Management and Communication
+  - [ ] Distributed Systems
+
+# Alogorithms
 
 - [ ] [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
   - [ ] Union-Find
@@ -38,12 +51,7 @@ This is my study plan for going from web developer (self-taught, no CS degree) t
   - [ ] Linear Programming
   - [ ] Intractability
 
-## OS
-
-- [ ] [Introduction to Operating Systems (udacity)](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
-  - [ ] Process and Thread Management
-  - [ ] Resource Management and Communication
-  - [ ] Distributed Systems
+# Machine Learning / Deep Learning  / AI
 
 ## Machine Learning / Deep Learning
 
