@@ -52,7 +52,7 @@ This is my study plan for going from web developer (self-taught, no CS degree) t
   - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/GHLGG9YERLJQ)
   - [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/DF75CUP5W2ZY)
   - [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/W2Y62BJ9Z4EB)
-  - [X] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) [Certificat](https://www.coursera.org/account/accomplishments/certificate/D54P7PXEXHAM)
+  - [X] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/D54P7PXEXHAM)
   - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 - [ ] [Advanced Machine Learning (Couresra)](https://www.coursera.org/specializations/aml)
   - [ ] [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning/home/welcome)
