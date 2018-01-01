@@ -20,6 +20,7 @@
   - [ ] Process and Thread Management
   - [ ] Resource Management and Communication
   - [ ] Distributed Systems
+- [ ] [Hack The Kernel](https://www.ops-class.org/)
 
 # Alogorithms
 
